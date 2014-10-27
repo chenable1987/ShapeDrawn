@@ -1,0 +1,19 @@
+Project: ShapeDrawn
+Author: Jie Chen
+Date: Oct 27th, 2014
+
+Description: ShapeDrawn is an iPhone app that allows its users to  draw shapes
+(lines, rectangles and ovals) on its canvas. Just remeber to set the properties
+of the shapes before it is to be drawn.
+
+1. Runing environment
+-The app is targeted for iPhone Retina 4-inches only and its orientation is forced to be portrait.
+-The app was developed using XCode 5.1.1 purely with Objective-C.
+-Check it out with Xcode 5.1.1 and iPhone 4-inches simulator.
+(Xcode 6.1 is not stable enough for me to upgrade)
+
+2. Features to be added
+-Allowing users to pick a color to draw shapes
+-Adding coordinate system grid on the canvas
+-Enabling zoom in and out of the shapes
+
